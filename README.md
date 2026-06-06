@@ -44,6 +44,15 @@ Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y desp
 
 ---
 
+## Proyectos destacados
+
+| Proyecto | Descripción | Stack |
+|---|---|---|
+| [kapital-frontend](https://github.com/damballa212/kapital-frontend) | Frontend para sistema de gestión de Casa de Cambios | React, Firebase, Vite |
+| [kapital-backend](https://github.com/damballa212/kapital-backend) | API REST para Casa de Cambios con auth, reportes y webhooks WhatsApp | TypeScript, Neon, Express |
+
+---
+
 ## Experiencia reciente
 
 **AI Developer & Software Engineer @ ManyBuild Inc.** *(Colorado, EE.UU. — Remoto)*
