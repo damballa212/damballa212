@@ -1,6 +1,6 @@
 # Marlon Pernia
 
-**AI Developer** especializado en agentes de inteligencia artificial y automatización de procesos. He desplegado sistemas multi-agente en producción que redujeron hasta el **90% del trabajo operativo manual**.
+**AI Developer** especializado en agentes de inteligencia artificial y automatización de procesos. He desplegado sistemas multi-agente en producción que redujeron hasta el **80% del trabajo operativo manual**.
 
 Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y despliegue.
 
@@ -36,6 +36,12 @@ Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y desp
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
+**Cloud & Infraestructura**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![VPS](https://img.shields.io/badge/VPS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+
 ---
 
 ## Experiencia reciente
@@ -44,7 +50,7 @@ Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y desp
 Diseñé e implementé tres agentes en producción con LangGraph: estimaciones y licitaciones, coordinación entre contratistas y agente conversacional con contexto dinámico.
 
 **Full-Stack & Automatización — Sistema de Remesas Internacionales** *(Freelance)*
-Aplicación web completa con dashboards en tiempo real + automatización end-to-end con WhatsApp API y plataformas de pago. 90% menos trabajo manual.
+Aplicación web completa con dashboards en tiempo real + automatización end-to-end con WhatsApp API y plataformas de pago. 80% menos trabajo manual.
 
 ---
 
