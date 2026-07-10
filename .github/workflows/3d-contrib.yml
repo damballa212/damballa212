@@ -2,7 +2,7 @@ name: Generate 3D Contribution Graph
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # every 12 hours
+    - cron: "0 18 * * *" # 03:00 JST / matches upstream's recommended cadence
   workflow_dispatch:
 
 permissions:
@@ -13,15 +13,14 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          username: damballa212
+          USERNAME: ${{ github.repository_owner }}
       - name: Commit and push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -f profile-3d-contrib/*.svg
+          git add -A .
           git commit -m "docs(profile): update 3D contribution graph" || exit 0
           git push

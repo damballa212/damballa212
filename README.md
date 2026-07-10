@@ -83,10 +83,10 @@
 ## Contribuciones en 3D
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/damballa212/damballa212/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+<img src="https://raw.githubusercontent.com/damballa212/damballa212/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
 
-> Las tres secciones de arriba se regeneran solas cada 12 horas vía GitHub Actions — no son imágenes estáticas.
+> Las tres secciones de arriba se regeneran solas vía GitHub Actions (snake cada 12h, gráfico 3D una vez al día) — no son imágenes estáticas.
 
 ---
 
