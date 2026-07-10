@@ -1,8 +1,12 @@
-# Marlon Pernia
+<div align="center">
 
-**AI Developer** especializado en agentes de inteligencia artificial y automatización de procesos. He desplegado sistemas multi-agente en producción que redujeron hasta el **80% del trabajo operativo manual**.
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Marlon%20Pernia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%26%20Agent%20Architect&descAlignY=58&descSize=20" width="100%"/>
 
-Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y despliegue.
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Agentes+multi-IA+en+producci%C3%B3n+con+LangGraph;Reduje+hasta+80%25+del+trabajo+operativo+manual;Rust+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+React)](https://git.io/typing-svg)
+
+📧 perniam896@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/marlonpernia-b9010838) &nbsp;·&nbsp; 🟢 Disponible para proyectos y empleo
+
+</div>
 
 ---
 
@@ -12,6 +16,7 @@ Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y desp
 - ⚙️ **Automatización end-to-end** — flujos con WhatsApp Business API, webhooks y plataformas de pago
 - 🌐 **Aplicaciones fullstack** — dashboards, APIs REST, sistemas de gestión con Python y React
 - 🔗 **Integración de sistemas** — CRMs, canales de comunicación, bases de datos, APIs externas
+- 🦀 **Infraestructura propia en Rust** — servicios de bajo nivel corriendo en producción 24/7
 
 ---
 
@@ -25,6 +30,7 @@ Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y desp
 
 **Desarrollo**
 
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
@@ -32,6 +38,8 @@ Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y desp
 
 **APIs & Plataformas**
 
+![Discord](https://img.shields.io/badge/Discord_API-5865F2?style=flat-square&logo=discord&logoColor=white)
+![Telegram](https://img.shields.io/badge/Telegram_API-26A5E4?style=flat-square&logo=telegram&logoColor=white)
 ![WhatsApp](https://img.shields.io/badge/WhatsApp_API-25D366?style=flat-square&logo=whatsapp&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
@@ -40,6 +48,7 @@ Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y desp
 
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![Postgres](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![VPS](https://img.shields.io/badge/VPS-Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
@@ -48,8 +57,36 @@ Trabajo en el ciclo completo: arquitectura, implementación fullstack, QA y desp
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
+| [**legba**](https://github.com/damballa212/legba) | Traducción bilingüe en tiempo real Discord ↔ Telegram + chat con IA, un solo binario Rust, sin framework de bot | Rust, Axum, `twilight-gateway`, Postgres |
 | [kapital-frontend](https://github.com/damballa212/kapital-frontend) | Frontend para sistema de gestión de Casa de Cambios | React, Firebase, Vite |
 | [kapital-backend](https://github.com/damballa212/kapital-backend) | API REST para Casa de Cambios con auth, reportes y webhooks WhatsApp | TypeScript, Neon, Express |
+
+---
+
+## Estadísticas
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=damballa212&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damballa212&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=damballa212&theme=radical&hide_border=true&background=0D1117" />
+
+</div>
+
+## Actividad
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/damballa212/damballa212/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
+## Contribuciones en 3D
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/damballa212/damballa212/profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
+</div>
+
+> Las tres secciones de arriba se regeneran solas cada 12 horas vía GitHub Actions — no son imágenes estáticas.
 
 ---
 
@@ -63,6 +100,6 @@ Aplicación web completa con dashboards en tiempo real + automatización end-to-
 
 ---
 
-## Contacto
-
-📧 perniam896@gmail.com · 💼 [LinkedIn](https://linkedin.com/in/marlonpernia-b9010838) · 🟢 **Disponible para proyectos y empleo**
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,100:0F0C29&height=100&section=footer" width="100%"/>
+</div>
