@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Marlon%20Pernia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%26%20Agent%20Architect&descAlignY=58&descSize=20" width="100%"/>
+# Marlon Pernia
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Agentes+multi-IA+en+producci%C3%B3n+con+LangGraph;Reduje+hasta+80%25+del+trabajo+operativo+manual;Rust+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer+%26+Agent+Architect;Agentes+multi-IA+en+producci%C3%B3n+con+LangGraph;Reduje+hasta+80%25+del+trabajo+operativo+manual)](https://git.io/typing-svg)
 
 📧 perniam896@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/marlonpernia-b9010838) &nbsp;·&nbsp; 🟢 Disponible para proyectos y empleo
 
@@ -71,18 +71,6 @@
 
 </div>
 
-## Actividad
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/damballa212/damballa212/output/github-contribution-grid-snake-dark.svg" width="100%" />
-</div>
-
-## Contribuciones
-
-<div align="center">
-<img src="https://raw.githubusercontent.com/damballa212/damballa212/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
-</div>
-
 ---
 
 ## Experiencia reciente
@@ -92,9 +80,3 @@ Diseñé e implementé tres agentes en producción con LangGraph: estimaciones y
 
 **Full-Stack & Automatización — Sistema de Remesas Internacionales** *(Freelance)*
 Aplicación web completa con dashboards en tiempo real + automatización end-to-end con WhatsApp API y plataformas de pago. 80% menos trabajo manual.
-
----
-
-<div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" width="100%"/>
-</div>
