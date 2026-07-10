@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0C29,50:302B63,100:24243E&height=220&section=header&text=Marlon%20Pernia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%26%20Agent%20Architect&descAlignY=58&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:161B22,100:0D1117&height=220&section=header&text=Marlon%20Pernia&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Developer%20%26%20Agent%20Architect&descAlignY=58&descSize=20" width="100%"/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=A78BFA&center=true&vCenter=true&width=700&lines=Agentes+multi-IA+en+producci%C3%B3n+con+LangGraph;Reduje+hasta+80%25+del+trabajo+operativo+manual;Rust+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+React)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=Agentes+multi-IA+en+producci%C3%B3n+con+LangGraph;Reduje+hasta+80%25+del+trabajo+operativo+manual;Rust+%C2%B7+Python+%C2%B7+TypeScript+%C2%B7+React)](https://git.io/typing-svg)
 
 📧 perniam896@gmail.com &nbsp;·&nbsp; 💼 [LinkedIn](https://linkedin.com/in/marlonpernia-b9010838) &nbsp;·&nbsp; 🟢 Disponible para proyectos y empleo
 
@@ -67,10 +67,7 @@
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=damballa212&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=damballa212&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=damballa212&theme=radical&hide_border=true&background=0D1117" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=damballa212&theme=github-dark-blue&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -80,13 +77,11 @@
 <img src="https://raw.githubusercontent.com/damballa212/damballa212/output/github-contribution-grid-snake-dark.svg" width="100%" />
 </div>
 
-## Contribuciones en 3D
+## Contribuciones
 
 <div align="center">
 <img src="https://raw.githubusercontent.com/damballa212/damballa212/main/profile-3d-contrib/profile-night-rainbow.svg" width="100%" />
 </div>
-
-> Las tres secciones de arriba se regeneran solas vía GitHub Actions (snake cada 12h, gráfico 3D una vez al día) — no son imágenes estáticas.
 
 ---
 
@@ -101,5 +96,5 @@ Aplicación web completa con dashboards en tiempo real + automatización end-to-
 ---
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243E,100:0F0C29&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,100:161B22&height=100&section=footer" width="100%"/>
 </div>
