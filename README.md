@@ -55,9 +55,9 @@
 
 | Proyecto | Descripción | Stack |
 |---|---|---|
-| [**legba**](https://github.com/damballa212/legba) | Traducción bilingüe en tiempo real Discord ↔ Telegram + chat con IA, un solo binario Rust, sin framework de bot | Rust, Axum, `twilight-gateway`, Postgres |
-| [kapital-frontend](https://github.com/damballa212/kapital-frontend) | Frontend para sistema de gestión de Casa de Cambios | React, Firebase, Vite |
-| [kapital-backend](https://github.com/damballa212/kapital-backend) | API REST para Casa de Cambios con auth, reportes y webhooks WhatsApp | TypeScript, Neon, Express |
+| [**legba**](https://github.com/damballa212/legba) | Traducción bilingüe en tiempo real entre Discord y Telegram, más chat con IA — un solo backend en Rust | Rust, Axum, `twilight-gateway`, Postgres |
+| [kapital-frontend](https://github.com/damballa212/kapital-frontend) | Dashboard operativo para liquidaciones de creadores de TikTok (PayPal, Zelle, USDT) — transacciones, comisiones, reportes contables | React, Firebase, Vite |
+| [kapital-backend](https://github.com/damballa212/kapital-backend) | API REST del sistema de liquidaciones: procesa comandos por bot de WhatsApp, calcula comisiones y tasas, registra transacciones | TypeScript, Neon, Express |
 
 ---
 
@@ -76,5 +76,5 @@
 **AI Developer & Software Engineer @ ManyBuild Inc.** *(Colorado, EE.UU. — Remoto)*
 Diseñé e implementé tres agentes en producción con LangGraph: estimaciones y licitaciones, coordinación entre contratistas y agente conversacional con contexto dinámico.
 
-**Full-Stack & Automatización — Sistema de Remesas Internacionales** *(Freelance)*
-Aplicación web completa con dashboards en tiempo real + automatización end-to-end con WhatsApp API y plataformas de pago. 80% menos trabajo manual.
+**Full-Stack & Automatización — KapitalApp** *(Freelance)*
+Dashboard + API completos para gestionar liquidaciones de creadores de TikTok (PayPal, Zelle, USDT, guaraníes): bot operativo por WhatsApp, cálculo de comisiones y tasas, reportes en tiempo real. 80% menos trabajo manual frente al proceso anterior.
