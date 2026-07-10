@@ -1,6 +1,6 @@
 <div align="center">
 
-# Marlon Pernia
+<img src="https://raw.githubusercontent.com/damballa212/damballa212/main/banner.svg" width="100%" alt="Marlon Pernia — AI Developer, Agent Architect"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer+%26+Agent+Architect;Agentes+multi-IA+en+producci%C3%B3n+con+LangGraph;Reduje+hasta+80%25+del+trabajo+operativo+manual)](https://git.io/typing-svg)
 

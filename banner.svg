@@ -1,0 +1,38 @@
+<svg width="1200" height="240" viewBox="0 0 1200 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#05070A"/>
+      <stop offset="55%" stop-color="#0D1117"/>
+      <stop offset="100%" stop-color="#05070A"/>
+    </linearGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#1F6FEB"/>
+      <stop offset="100%" stop-color="#58A6FF"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M 40 0 L 0 0 0 40" fill="none" stroke="#161B22" stroke-width="1"/>
+    </pattern>
+  </defs>
+
+  <rect width="1200" height="240" fill="url(#bg)"/>
+  <rect width="1200" height="240" fill="url(#grid)" opacity="0.5"/>
+
+  <rect x="0" y="0" width="6" height="240" fill="url(#accent)"/>
+  <rect x="0" y="0" width="1200" height="3" fill="url(#accent)" opacity="0.6"/>
+  <rect x="0" y="237" width="1200" height="3" fill="url(#accent)" opacity="0.6"/>
+
+  <text x="70" y="118" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="58" font-weight="700" fill="#F0F6FC" letter-spacing="1">MARLON PERNIA</text>
+  <text x="72" y="160" font-family="'Courier New', monospace" font-size="22" fill="#58A6FF" letter-spacing="3">AI DEVELOPER · AGENT ARCHITECT</text>
+  <text x="72" y="196" font-family="'Courier New', monospace" font-size="16" fill="#8B949E" letter-spacing="1">RUST · PYTHON · TYPESCRIPT · LANGGRAPH</text>
+
+  <g opacity="0.35">
+    <circle cx="1080" cy="70" r="2" fill="#58A6FF"/>
+    <circle cx="1120" cy="70" r="2" fill="#58A6FF"/>
+    <circle cx="1120" cy="110" r="2" fill="#58A6FF"/>
+    <circle cx="1080" cy="110" r="2" fill="#58A6FF"/>
+    <line x1="1080" y1="70" x2="1120" y2="70" stroke="#58A6FF" stroke-width="1"/>
+    <line x1="1120" y1="70" x2="1120" y2="110" stroke="#58A6FF" stroke-width="1"/>
+    <line x1="1080" y1="70" x2="1080" y2="110" stroke="#58A6FF" stroke-width="1"/>
+    <line x1="1080" y1="110" x2="1120" y2="110" stroke="#58A6FF" stroke-width="1"/>
+  </g>
+</svg>
