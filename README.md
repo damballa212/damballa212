@@ -1,6 +1,13 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/damballa212/damballa212/main/banner.svg" width="100%" alt="Marlon Pernia — AI Developer, Agent Architect"/>
+**Opción A — plano, gris carbón, sin bordes**
+<img src="https://raw.githubusercontent.com/damballa212/damballa212/main/banner-a.svg" width="100%"/>
+
+**Opción B — terminal, negro puro, verde**
+<img src="https://raw.githubusercontent.com/damballa212/damballa212/main/banner-b.svg" width="100%"/>
+
+**Opción C — claro, serio, tipo membrete**
+<img src="https://raw.githubusercontent.com/damballa212/damballa212/main/banner-c.svg" width="100%"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=700&lines=AI+Developer+%26+Agent+Architect;Agentes+multi-IA+en+producci%C3%B3n+con+LangGraph;Reduje+hasta+80%25+del+trabajo+operativo+manual)](https://git.io/typing-svg)
 
